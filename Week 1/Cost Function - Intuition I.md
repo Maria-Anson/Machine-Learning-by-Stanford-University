@@ -1,8 +1,8 @@
 # Cost Function - Intuition I
  
- If we try to think of it in visual terms, our training data set is scattered on the x-y plane. We are trying to make a straight line (defined by hθ(x)h_\theta(x)hθ​(x)) which passes through these scattered data points.
+ If we try to think of it in visual terms, our training data set is scattered on the x-y plane. We are trying to make a straight line (defined by hθ(x) which passes through these scattered data points.
  
- Our objective is to get the best possible line. The best possible line will be such so that the average squared vertical distances of the scattered points from the line will be the least. Ideally, the line should pass through all the points of our training data set. In such a case, the value of J(θ0,θ1)J(\theta_0, \theta_1)J(θ0​,θ1​) will be 0\. The following example shows the ideal situation where we have a cost function of 0\.
+ Our objective is to get the best possible line. The best possible line will be such so that the average squared vertical distances of the scattered points from the line will be the least. Ideally, the line should pass through all the points of our training data set. In such a case, the value of J(θ0,θ1) will be 0\. The following example shows the ideal situation where we have a cost function of 0\.
  
  ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_B8TJZtREea33w76dwnDIg_3e3d4433e32478f8df446d0b6da26c27_Screenshot-2016-10-26-00.57.56.png?expiry=1591142400000&hmac=Cokd6ZnbJp3OUWSPRLTL193j3hiTHSLC7C2oGuxrBOM)
  
