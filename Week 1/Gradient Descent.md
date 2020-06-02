@@ -18,7 +18,7 @@
  
  repeat until convergence:
  
- θj:=θj−α∂∂θjJ(θ0,θ1)\theta_j := \theta_j - \alpha \frac{\partial}{\partial \theta_j} J(\theta_0, \theta_1)θj​:=θj​−α∂θj​∂​J(θ0​,θ1​)
+ θj:=θj−α∂/∂θj J(θ0,θ1)
  
  where
  
