@@ -82,7 +82,7 @@
 >  Figure:
 > 
 
-     ![](https://d3c33hcgiwev3.cloudfront.net/6w-qg77oEeSZtCIACx4DqA_Screen-Shot-2015-02-27-at-5.24.59-PM.png?Expires=1592179200&Signature=kLJlbV~Vl0bWIY3mXsCDnrEaGPwfAyP5iT-yRSiM2cWKvzYF2E175WHVeUH3H3PTKEz7MvbGoOc6k1DAwQNH4SMrXLR13jX0TKZbnhLFBjpe2EZNGtODN4zIiowihiUSmnSV4CZCZ9nYVcdwX0G1y0jx-C9SPGvZtkS~HTq3xqI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) 
+   ![](https://d3c33hcgiwev3.cloudfront.net/6w-qg77oEeSZtCIACx4DqA_Screen-Shot-2015-02-27-at-5.24.59-PM.png?Expires=1592179200&Signature=kLJlbV~Vl0bWIY3mXsCDnrEaGPwfAyP5iT-yRSiM2cWKvzYF2E175WHVeUH3H3PTKEz7MvbGoOc6k1DAwQNH4SMrXLR13jX0TKZbnhLFBjpe2EZNGtODN4zIiowihiUSmnSV4CZCZ9nYVcdwX0G1y0jx-C9SPGvZtkS~HTq3xqI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) 
 > 
 >  Figure:
 > 
@@ -113,6 +113,6 @@
 >  Figure:
 > 
 
-     ![](https://d3c33hcgiwev3.cloudfront.net/BRZOFr7qEeSZtCIACx4DqA_Screen-Shot-2015-02-27-at-5.31.02-PM.png?Expires=1592179200&Signature=OMOjKdumov6DWozveafDMDyL3CzD1Mw4Y4Tokbz1Dxb7RSMMkWsLgqtcxhf733x9J7I39pOIlCznEbBJitiQnoGV5RB-FgKzqKauYFkjXLZQBoWKuV5uta~z9Km0cjXd66QmN2Yg6J-mTAzLTNme7IEikaAeLWgyqoq2898yTG0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+   ![](https://d3c33hcgiwev3.cloudfront.net/BRZOFr7qEeSZtCIACx4DqA_Screen-Shot-2015-02-27-at-5.31.02-PM.png?Expires=1592179200&Signature=OMOjKdumov6DWozveafDMDyL3CzD1Mw4Y4Tokbz1Dxb7RSMMkWsLgqtcxhf733x9J7I39pOIlCznEbBJitiQnoGV5RB-FgKzqKauYFkjXLZQBoWKuV5uta~z9Km0cjXd66QmN2Yg6J-mTAzLTNme7IEikaAeLWgyqoq2898yTG0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 >
 > -- https://www.coursera.org/learn/machine-learning/exam/lehkt/regularization/attempt#Tunnel Vision Close
